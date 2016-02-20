@@ -1,0 +1,33 @@
+body{
+	background: url('../images/background_front.png');
+}
+.title-front{
+
+	text-align: center;
+	font-weight: bold;
+	font-
+}
+.left{
+	text-align: left;
+}
+.title-front-header{
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	font-weight: bold;
+	display: inline-block;
+	padding-bottom: 5px;
+
+}
+.panel-title{
+	 font-weight: bold;
+}
+.logo{
+	width: 50px;
+}
+.img-article{
+	min-height: 300px;
+	max-height: 300px;
+}
+.fondo-articulo{
+	background-color: white;
+
+}

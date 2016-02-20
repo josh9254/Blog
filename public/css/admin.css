@@ -1,0 +1,27 @@
+ 
+body {
+  margin: 0;
+  background-color:#ccc;
+
+	background: url('../images/background_admin.png');
+ 
+}
+ 
+nav{
+	width: 80%;
+	margin-left: 10%;
+}
+ section{
+ 		width: 80%;
+	margin-left: 10%;
+ }
+ .img-article-admin{
+	min-height: 200px;
+	max-height: 200px;
+}
+.panel-titulo-footer{
+	min-height: 50px;
+	max-height: 50px;
+	text-align: center;
+
+}
