@@ -53,6 +53,12 @@ public function update(Request $request, $id){
 	$user->name = $request->name;
 	$user->lastname = $request->lastname;
 	$user->email = $request->email;
+	$user->street = $request->street;
+	$user->number = $request->number;
+	$user->neighborhood = $request->neighborhood;
+	$user->state = $request->state;
+	$user->zipcode = $request->zipcode;
+	$user->city = $request->city;
 	$user->type = $request->type;
 	$user->save();
 
